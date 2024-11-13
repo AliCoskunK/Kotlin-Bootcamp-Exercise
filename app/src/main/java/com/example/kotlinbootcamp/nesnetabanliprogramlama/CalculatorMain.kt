@@ -101,12 +101,6 @@ fun main() {
         val sonuc = Calculator().calculateFactorial(sayi1)
         println("$sayi1! = $sonuc")
     }
-    else{
-
-        println("Hatalı seçim yaptınız. Lütfen tekrar deneyiniz.")
-    } 
-
-   
 
 
 

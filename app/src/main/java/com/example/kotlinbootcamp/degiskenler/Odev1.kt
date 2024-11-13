@@ -50,6 +50,8 @@ fun main() {
     val kuponkodu:Int=15466
     val faturatarihi:Double=12.04
 
+
+
     println("ilçe adı : $ilce")
     println("Kıta ismi: $kita")
     println("Faks numarası: $faks")
